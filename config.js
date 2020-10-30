@@ -1,3 +1,4 @@
 module.exports={
-    mogoDB:process.env.MONGODB
+    mogoDB:process.env.MONGODB,
+    keyToke: process.env.KEYTOKE
 }
