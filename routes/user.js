@@ -1,5 +1,3 @@
-
-
 module.exports = (app) => {
     const user = require('../controllers/user')
     const isAuth = require('../middleware/auth')
